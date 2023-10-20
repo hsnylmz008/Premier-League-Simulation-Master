@@ -21,7 +21,7 @@ list of features:
 Clone the project:
 
 ```
-> git clone https://github.com/vahiiiid/premier-league-simulation.git
+> git clone https://github.com/hsnylmz008/premier-league-simulation.git
 ```
 
 ### Prerequisites
